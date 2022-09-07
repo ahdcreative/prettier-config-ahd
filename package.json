@@ -1,7 +1,7 @@
 {
-  "name": "@ahdcreatinve/prettier-config-ahd",
-  "version": "1.0.0",
-  "description": "Shareable Prettier Config for @ahdcreative",
+  "name": "@AHDCreative/prettier-config-ahd",
+  "version": "1.0.1",
+  "description": "Shareable Prettier Config for @AHDCreative",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
