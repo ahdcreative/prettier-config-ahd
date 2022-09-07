@@ -1,5 +1,5 @@
 {
-  "name": "@AHDCreative/prettier-config-ahd",
+  "name": "@ahdcreative/prettier-config-ahd",
   "version": "1.0.1",
   "description": "Shareable Prettier Config for @AHDCreative",
   "main": "index.js",
