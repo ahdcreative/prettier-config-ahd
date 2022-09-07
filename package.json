@@ -31,5 +31,8 @@
     "npm": ">=6.11.0",
     "yarn": ">=3.23.0"
   },
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "package-version-git-tag": "^3.0.0"
+  }
 }
