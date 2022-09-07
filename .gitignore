@@ -91,3 +91,4 @@ typings/
 
 .idea/
 .yarn/
+.pnp.cjs
