@@ -9,13 +9,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@ahdcreatinve/prettier-config-ahd@workspace:."
   dependencies:
-    prettier: ^2.7.1
+    prettier: 2.7.1
   peerDependencies:
     prettier: ">=1.17.0"
   languageName: unknown
   linkType: soft
 
-"prettier@npm:^2.7.1":
+"prettier@npm:2.7.1":
   version: 2.7.1
   resolution: "prettier@npm:2.7.1"
   bin:

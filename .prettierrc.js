@@ -1,4 +1,4 @@
 // Self Hosting
 module.exports = {
-    ...require('./'),
+  ...require('./'),
 };
