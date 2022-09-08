@@ -38,8 +38,6 @@ jobs:
       - name: yarn run check
         run: yarn run check
 
-      # まだ publish されていないバージョンなら publish する
-      - run: |
-          npx can-npm-publish --verbose && npm publish || echo "Does not publish"
+      - run: npm publish --access public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
