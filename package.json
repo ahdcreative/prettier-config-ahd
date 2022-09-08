@@ -1,5 +1,5 @@
 {
-  "name": "@ahdcreative/prettier-config-ahd",
+  "name": "ahdcreative/prettier-config-ahd",
   "version": "1.0.1",
   "description": "Shareable Prettier Config for @AHDCreative",
   "repository": "https://github.com/AHDCreative/prettier-config-ahd",
