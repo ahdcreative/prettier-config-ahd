@@ -6,8 +6,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "check": "prettier  --check .",
-    "fix": "prettier --write ."
+    "prettier-check": "prettier  --check .",
+    "prettier-fix": "prettier --write ."
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
