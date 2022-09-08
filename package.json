@@ -2,11 +2,12 @@
   "name": "@ahdcreative/prettier-config-ahd",
   "version": "1.0.1",
   "description": "Shareable Prettier Config for @AHDCreative",
-  "repository": "https://github.com/AHDCreative/prettier-config-ahd",
+  "repository": "https://github.com/AHDCreative/prettier-config-ahd.git",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "check": "prettier  --check ."
+    "check": "prettier  --check .",
+    "fix": "prettier --write ."
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -18,9 +19,6 @@
   "files": [
     "index.js"
   ],
-  "peerDependencies": {
-    "prettier": ">=1.17.0"
-  },
   "peerDependenciesMeta": {
     "prettier": {}
   },
