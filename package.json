@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-ahd",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shareable Prettier Config for @AHDCreative",
   "repository": "https://github.com/ahdcreative/prettier-config-ahd.git",
   "main": "index.js",
@@ -19,14 +19,7 @@
   "files": [
     "index.js"
   ],
-  "peerDependenciesMeta": {
-    "prettier": {}
-  },
   "devDependencies": {
     "prettier": "2.7.1"
-  },
-  "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.11.0"
   }
 }
