@@ -1,7 +1,7 @@
 {
   "name": "@ahdcreative/prettier-config-ahd",
   "version": "1.0.5",
-  "prettier": "@ahdcreattive/prettier-config-ahd",
+  "prettier": "@ahdcreative/prettier-config-ahd",
   "description": "Shareable Prettier Config for @AHDCreative",
   "repository": "https://github.com/ahdcreative/prettier-config-ahd.git",
   "main": "index.js",
