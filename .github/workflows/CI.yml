@@ -37,3 +37,6 @@ jobs:
 
       - name: Prettier
         run: npx --no-install prettier --check .
+
+      - name: Preflight
+        run: npm run preflight
