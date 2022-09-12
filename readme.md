@@ -7,7 +7,7 @@
 
 ## Usage
 
-Our default export contains all of our Stylelint rules, along with specific plugins for SCSS syntax.
+Our default export contains all of our Prettier rules, along with specific plugins for SCSS syntax.
 
 1. Run `npm install prettier @ahdceative/prettier-config-ahd --save-dev`
 2. Add `"extends": "@ahdcreative/prettier-config-ahd"` to your `.prettierrc`
