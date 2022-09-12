@@ -23,10 +23,10 @@
     "index.js"
   ],
   "devDependencies": {
+    "@ahdcreative/eslint-config-ahd": "^1.0.8",
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "@typescript-eslint/parser": "^5.36.2",
     "eslint": "8.23.0",
-    "@ahdcreative/eslint-config-ahd": "^1.0.8",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-import": "2.26.0",
