@@ -13,14 +13,13 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [16]
 
     steps:
       - uses: actions/checkout@v3
 
       - uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version-file: ".nvmrc"
 
       - name: Cache node_modules
         id: cache-node_modules
@@ -38,6 +37,3 @@ jobs:
 
       - name: Prettier
         run: npx --no-install prettier --check .
-
-      - name: Build
-        run: npm run build
