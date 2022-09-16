@@ -1,4 +1,4 @@
-# [@ahdcreative/prettier-config-ahd](https://www.npmjs.com/package/@ahdcreative/prettier-config-ahd)
+# [@ahdcreative/prettier-config-ahd](https://www.npmjs.com/package/@ahdcreative/prettier-config-ahd)[<img src="https://raw.githubusercontent.com/ahdcreative/prettier-config-ahd/main/.github/prettier-logo.svg?sanitize=true" alt="Prettier" width="90" height="90" align="right">](https://prettier.io)
 
 [![@ahdcreative/prettier-config-ahd on npm](https://img.shields.io/npm/v/@ahdcreative/prettier-config-ahd.svg)](https://www.npmjs.com/package/@ahdcreative/prettier-config-ahd)
 [![CI status](https://github.com/ahdcreative/prettier-config-ahd/workflows/CI/badge.svg)](https://github.com/ahdcreative/prettier-config-ahd/actions?query=workflow%3ACI) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
